@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from "axios";
 import { FaPencil, FaTrashCan } from 'react-icons/fa6';
+import './CrudUsuarios.css';
 
 export default function CrudUsuarios() {
 
